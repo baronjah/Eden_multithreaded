@@ -19,8 +19,6 @@
 #
 ####################
 
-# so me, others me from dreams, and whoever i hear i guess, we work together, through space and time, to make that vidya ive been day dreaming for past 20 years
-# cmon
 ####################
 # JSH Ethereal Engine
 extends Node3D
